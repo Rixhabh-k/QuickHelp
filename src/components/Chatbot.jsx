@@ -24,7 +24,7 @@ const ChatBot = () => {
         headers: {
           'Content-Type': 'application/json',
           Authorization:
-            'Bearer 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',
+            '',
         },
         body: JSON.stringify({
           model: 'gpt-3.5-turbo',
