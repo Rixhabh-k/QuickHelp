@@ -34,8 +34,8 @@
 
 ## 🌐 Live Project
 
-🔗 [Live Link](https://your-live-link.vercel.app)
-*Replace with your deployed project link (e.g., Netlify, Vercel)*
+🔗 [Live Link](https://quick-help-murex.vercel.app/)
+
 
 ---
 
