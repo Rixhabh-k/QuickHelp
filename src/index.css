@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.location-box {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.emergency-contacts-container {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.chat-bot-container{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.form-container{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
