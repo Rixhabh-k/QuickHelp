@@ -8,5 +8,6 @@ export default defineConfig({
   plugins: [react(),tailwindcss()],
    server: {
     allowedHosts: ['f526deeeeb6d.ngrok-free.app'], // ⬅️ yeh line add karni hai
+    base: process.env.VITE_BASE_PATH || "/QuickHelp"
   }
 })
